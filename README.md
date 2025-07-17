@@ -6,15 +6,14 @@ Welcome to my GitHub profile! I'm Vaibhav Chemboli, a passionate AI student. I l
 ## 🚀 About Me
 
 - 🔭 I’m currently pursuing a master's in Artificial Intelligence at Katz School of Science and Health, Yeshiva University.
-- 🌱 I’m currently learning R and different Feature Engineering Techniques.
-- 👯 I’m looking to collaborate on projects related to GANs (Generative Adversarial Networks).
+
 
 ## 🛠️ Skills
 
 Here are some of the key skills and technologies I work with:
 
 - Programming Languages: Python, R, MySQL, HTML, CSS, JS, LaTeX
-- Tools and Technologies: TensorFlow, OpenCV, Pandas, Scikit Learn, RHEL, NumPy
+- Tools and Technologies: TensorFlow, OpenCV, Pandas, Scikit Learn, RHEL, NumPy, PyTorch, AI Agents
 
 ## 🌐 Connect with Me
 
